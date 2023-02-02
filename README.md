@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hlmbsbyk
-- 👀 I’m interested in .REST API and ReactJS 
+- 👀 I’m interested in REST API and ReactJS 
 - 🌱 I’m currently learning Azure DevOps
 
 <!---
